@@ -1,0 +1,9 @@
+libglib2.0-dev
+automake
+libtool
+intltool
+fftw3-dev
+libgstreamer0.10-dev
+libsamplerate0-dev
+libgstreamer-plugins-base0.10-dev
+ubuntu-restricted-extras
